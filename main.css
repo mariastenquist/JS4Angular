@@ -1,0 +1,18 @@
+body
+
+
+.button {
+	font-size: 24px;
+	background-color: yellow;
+	padding: 20px;
+	display: inline-block;
+	border-radius: 10px;
+}
+
+.paragraphOne {
+	font-color: green;
+}
+
+.paragraphOnehover {
+	/*this is the hard-coded way*/
+}
