@@ -13,6 +13,22 @@ body
 	font-color: green;
 }
 
-.paragraphOnehover {
-	/*this is the hard-coded way*/
+
+.pink {
+	color: pink;
+}
+/*.pink2 {
+	color: pink;
+}
+
+.pink3 {
+	color: pink;
+}*/
+
+.red {
+	color: orangered;
+}
+
+.blue {
+	color: blue;
 }
